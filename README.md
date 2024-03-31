@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aminesbaillo
-- 👀 I’m interested in DATA SCIENCE, Deep Learning, Machine Learning, and Data Analysis
+- 👀 I’m interested in DATA SCIENCE, Deep Learning, Machine Learning, Data Analysis adn Data scraper (Scrapy)
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on exciting data-driven projects
 - 📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at sbailloamine3@gmail.com 
