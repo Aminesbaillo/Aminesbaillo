@@ -1,52 +1,36 @@
-# ✨ **Welcome to My Data Science Journey!** ✨
+# Hi, I'm Sbaillo Amine
 
-## 🚀 **Data Science Engineer** | **AI Innovator** | **Machine Learning Architect** | **Fintech Visionary**
+## Professional Overview
+I am a Data Scientist working in the fintech domain, with experience in data science, automation, and business intelligence projects. My work focuses on transforming raw data into practical and structured solutions that support business operations, analytics, and decision-making. I am particularly interested in building reliable systems that combine data, machine learning, and real business needs.
 
----
+## Data Science and Analytics
+My background includes data analysis, statistical reasoning, data preprocessing, feature engineering, and predictive modeling. I work on understanding complex datasets, identifying useful patterns, and building analytical solutions for classification, regression, and forecasting tasks. I pay close attention to data quality, evaluation logic, and the business meaning behind the numbers.
 
-**💼 Currently shaping the future of finance at a leading Payment Center for Africa** 🌍, I’m on a mission to revolutionize the way we process data in the **finance payment** and **marketing** sectors. As a **Data Science Engineer** from the renowned **Institut Nationale de la Statistique et d'Économie Appliquée**, my expertise is fueled by a passion for **transforming complex data** into meaningful insights that drive **business growth** and **innovation**.
+## Machine Learning and AI
+I develop machine learning solutions with a practical mindset, from preparing data and training models to validating performance and improving reliability. My work involves handling real challenges such as imbalanced data, overfitting, feature relevance, and metric selection. I am also interested in applied AI systems that can be integrated into real workflows instead of remaining only experimental models.
 
-### ⚡️ **Why am I so passionate about Data Science?**
-- 🔍 **Deep Learning**, **Machine Learning**, and **AI** aren’t just buzzwords for me; they are the **tools of transformation**. I thrive on extracting valuable insights from mountains of data, helping organizations make smarter decisions and **unlock hidden potential**.
-- 📊 From building cutting-edge models to crafting **predictive algorithms**, I love using **Python** and **Dynamic Programming** to solve real-world problems with **data-driven precision**.
-- 🌱 **Always learning, always evolving** – currently diving deep into **Dynamic Programming** to optimize my algorithmic skills and take my problem-solving abilities to the next level!
+## Automation, BI, and Data Systems
+In addition to modeling, I also work on automation and business intelligence initiatives. This includes contributing to workflow automation, supporting dashboard and reporting systems, and helping structure data for operational and management use. I am interested in connecting data science with automation and BI to create solutions that are both intelligent and useful in production environments.
 
----
+## Technical Stack
+- **Languages:** Python, SQL
+- **Data Science:** pandas, NumPy, scikit-learn, statistics, data preprocessing, feature engineering
+- **Machine Learning:** classification, regression, forecasting, anomaly detection, model evaluation
+- **BI and Analytics:** Power BI, dashboarding, reporting, business analysis
+- **Other Interests:** AI systems, automation, financial data science, production-ready pipelines
 
-### 🌟 **What Can You Expect From Me?**
-- **🚀 Full-stack Data Science Expertise**: From **data wrangling**, **feature engineering**, and **model development**, to **deployment** and **productionalization**.
-- **💡 Creative Problem Solving**: Leveraging advanced **statistical models** and **AI techniques** to create **actionable insights**.
-- **🔗 Fintech & Marketing Insights**: Applying deep knowledge of **payment systems**, **fraud detection**, and **customer segmentation** to solve pressing challenges in the financial and marketing industries.
-  
-### 🌍 **Collaboration? Let’s Make Magic Happen!**
-If you're working on **innovative projects** in **data science**, **AI**, or **Fintech** – I want to collaborate! Whether you need a **data scientist** to develop algorithms or a **machine learning expert** to build intelligent systems, I’m eager to make your ideas a reality.
+## Current Focus
+I am currently focused on strengthening my skills in financial data science, AI engineering, and scalable analytical solutions. My goal is to build projects that combine strong technical foundations with practical business impact, especially in fintech, automation, analytics, and intelligent decision systems.
 
-**Together, we can:**  
-- 🚀 Build **intelligent models** that scale.
-- 💼 Design **machine learning pipelines** that deliver results.
-- 💡 Create **AI-powered tools** that change industries.
+## What You'll Find Here
+On this GitHub, I share:
+- Data science and machine learning projects
+- Analytics and forecasting work
+- Automation and BI-related projects
+- Learning projects to deepen technical and financial knowledge
+- Practical experiments around AI and real-world data systems
 
----
-
-### 📬 **Let’s Connect!**
-I’m always up for new challenges and collaborations. Whether you have a **cool project**, need **insights**, or just want to chat about the **latest in AI** and **data science** – I’d love to hear from you!
-
-**📧 Reach out via email:** [sbailloamine61@gmail.com](mailto:sbailloamine61@gmail.com)  
-**📱 Connect with me on GitHub:** [@Aminesbaillo](https://github.com/Aminesbaillo)  
-**🔗 Connect with me on LinkedIn:** [Amine Sbaillo - LinkedIn](https://www.linkedin.com/in/amine-sbaillo/)  
-**💬 Let’s make the world smarter with data!**
+## Goal
+My long-term objective is to grow into a stronger professional at the intersection of data, finance, and AI by building useful, reliable, and well-structured systems.
 
 ---
-
-### **A Few Things You Should Know About Me:**
-- 🔥 **I love tackling tough problems**: If it’s complex, I’m in! I’m always excited to solve the hardest challenges, whether it’s **predictive modeling**, **data engineering**, or **optimizing algorithms**.
-- 🌐 **Global Perspective**: With experience working in the **finance sector across Africa**, I’m driven by global impact and solving problems that matter to people worldwide.
-- 📚 **Learning never stops**: I believe in constant growth, which is why I’m always adding new **skills** to my toolkit – **Deep Learning** and **Dynamic Programming** are just the beginning.
-
----
-
-### 🚀 **Let’s Build the Future Together!**
-If you're looking for a **dedicated, driven**, and **passionate collaborator** who thrives in the world of **data science** and **AI**, **let’s chat**! Together, we can **transform ideas** into **powerful solutions** that will leave a lasting impact. 🌍✨
-
-
-
